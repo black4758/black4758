@@ -2,7 +2,7 @@
   <a href="https://github.com/black4758">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </a>
-  &nbsp;Welcome to Seong-yoon's Profile!
+  &nbsp;Welcome to Seong-yun's Profile!
 </h1>
 
 ### 👨‍💻 About Me
