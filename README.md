@@ -5,14 +5,14 @@
   &nbsp;Welcome to Seong-yun's Profile!
 </h1>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 * 🎓 **Keimyung University** Graduate
 * 🌱 **SSAFY 12th**
 * 📫 How to reach me: **black475867@gmail.com**
 
----
 
-### 💻 Tech Stack
+
+## 💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -31,32 +31,31 @@
   <img src="https://img.shields.io/badge/Gemini-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white">
 </p>
 
----
 
-### 🏆 Awards
+
+## 🏆 Awards
 * **🏆 2021.06 제 3회 계명 캠퍼스 리빙랩 아이디어 공모 우수**
 * **🏆 2020.11 제 2회 계명 캠퍼스 리빙랩 아이디어 공모 최우수**
 * **🏆 2018.08 공군 창의 혁신 아이디어 공보 해커톤 경연대회 최우수**
 * **🏆 2017.06 계명대학교 해커톤 대상**
 
-### 📄 Certificates
+## 📄 Certificates
 * **📄 정보처리기사 (2022.11)**
 * **📄 COS Pro (Python) 2급 (2022.08)**
 * **📄 정보처리기기운용기사 (2019.03)**
 * **📄 정보처리기능사 (2017.08)**
 
----
+## 🚀 Projects
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=black4758&show_icons=true&theme=tokyonight&rank_icon=github" alt="black4758's GitHub stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black4758&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+| 기간 | 주제 | 역할 |
+|---|---|---|
+| 2025.04 ~ 2025.05 | Story Cut | 팀장,영상 처리, 영상 편집, AI |
+| 2025.02 ~ 2025.04 | 똑똑 | 팀장, AI,빅데이터 추천 |
+| 2025.01 ~ 2025.02 | MindFlow | 팀장, Back End, Ai |
 
----
 
-### solved.ac
+
+## solved.ac
 <p>
   <a href="http://solved.ac/arblack475867">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arblack475867" alt="Solved.ac Profile"/>
